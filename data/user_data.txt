@@ -1,0 +1,24 @@
+{
+	"surname": "Jean",
+	"name": "Pierre",
+	"city_of_interest": "Paris",
+	"birthDate": "01-01-1966"
+}
+{
+	"surname": "Jane",
+	"name": "Henry",
+	"city_of_interest": "Rennes",
+	"birthDate": "21-01-1975"
+}
+{
+	"surname": "Hector",
+	"name": "Dupont",
+	"city_of_interest": "Paris",
+	"birthDate": "01-03-1956"
+}
+{
+	"surname": "Yves",
+	"name": "Martin"
+	"city_of_interest": "Lyon",
+	"birthDate": "11-01-1977"
+}

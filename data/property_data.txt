@@ -1,0 +1,45 @@
+{
+	"city": "Rennes",
+	"rooms": 2,
+	"description": "Appartement éclairé ...",
+	"property_name": "Apt Rennes 1",
+	"car_rooms": "caractéristiques des pièces",
+	"owner_id": 2,
+	"type_prop": "Appartement"
+}
+{
+	"city": "Paris",
+	"rooms": 1,
+	"description": "Studio pour étudiant ...",
+	"property_name": "Apt Paris 1",
+	"car_rooms": "caractéristiques des pièces",
+	"owner_id": 1,
+	"type_prop": "Appartement"
+}
+{
+	"city": "Paris",
+	"rooms": 2,
+	"description": "Appartement éclairé ...",
+	"property_name": "Apt Paris 2",
+	"car_rooms": "caractéristiques des pièces",
+	"owner_id": 1,
+	"type_prop": "Appartement"
+}
+{
+	"city": "Paris",
+	"rooms": 6,
+	"description": "Belle maison familiale ...",
+	"property_name": "Maison Paris 1",
+	"car_rooms": "caractéristiques des pièces",
+	"owner_id": 3,
+	"type_prop": "Maison"
+}
+{
+	"city": "Lyon",
+	"rooms": 2,
+	"description": "Maison mitoyenne ...",
+	"property_name": "Maison Lyon 1",
+	"car_rooms": "Caractéristiques des pièces",
+	"owner_id": 4,
+	"type_prop": "Maison"
+}
