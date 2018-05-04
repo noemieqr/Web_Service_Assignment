@@ -20,3 +20,5 @@ api = Api(api_bp)
 # Route
 api.add_resource(UserCollectionResource, '/User')
 api.add_resource(UserResource, '/User/<int:user_id>')
+api.add_resource(PropertyCollectionResource, '/Property')
+api.add_resource(PropertyResource, '/Property/<int:property_id>')
