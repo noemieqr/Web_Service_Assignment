@@ -54,7 +54,8 @@ et Fonctionnalité bonus : Un propriétaire ne peut modifier que les caractéris
   OR
   **Content:** `{ "L'utilisateur n'est pas le propriétaire de ce bien." }`
 
-  **Modifications Utilisateurs**
+
+**Modifications utilisateur**
 ----
   Les utilisateurs peuvent renseigner/ modifier leurs informations personnelles sur la plateforme (nom, prénom, date de naissance)
 * **URL**
@@ -97,7 +98,7 @@ et Fonctionnalité bonus : Un propriétaire ne peut modifier que les caractéris
   OR
   **Content:** `{ "Vous n'etes pas sur votre page d'informations personnelles." }`
 
-**Accès Utilisateurs restreint**
+**Accès utilisateur restreint**
 ----
   Les utilisateurs peuvent consulter uniquement les biens d’une ville particulière
 
